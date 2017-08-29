@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1504039471 "INPUTS.tex" "INPUTS.pdf" "INPUTS" 1504039477
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1479649825 31669 df537245012f3e5f05bdc55644b7a3df ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1492624672 3899101 a8a5857843c30922e5e4c9b7d7cc5f25 ""
+  "INPUTS.aux" 1504038030 1696 f4a8232c8ba504479cda41e7487484c2 ""
+  "INPUTS.tex" 1498770406 0 d41d8cd98f00b204e9800998ecf8427e ""
+  (generated)
+  "INPUTS.log"
+  "INPUTS.pdf"

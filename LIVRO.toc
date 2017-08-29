@@ -1,0 +1,7 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsfinish 
+\contentsline {section}{coleção de bolso hedra}{826}
+\contentsline {section}{<<série largepost>>}{828}
+\contentsline {section}{<<série sexo>>}{828}
+\contentsline {section}{coleção <<que horas são?>>}{829}
