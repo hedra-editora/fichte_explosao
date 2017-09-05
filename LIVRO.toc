@@ -1,38 +1,37 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {part}{I. \par \vspace \medskipamount \par As bonecas e os enxutos}{7}
-\contentsline {chapter}{1.}{9}
-\contentsline {chapter}{2.}{11}
-\contentsline {chapter}{3.}{21}
-\contentsline {chapter}{4.}{25}
-\contentsline {chapter}{5.}{29}
-\contentsline {chapter}{6.}{33}
-\contentsline {chapter}{7.}{37}
-\contentsline {chapter}{8.}{43}
-\contentsline {chapter}{9.}{53}
-\contentsline {chapter}{10.}{59}
-\contentsline {chapter}{11.}{67}
-\contentsline {chapter}{12.}{71}
-\contentsline {chapter}{13.}{79}
-\contentsline {chapter}{14.}{81}
-\contentsline {chapter}{15.}{91}
-\contentsline {chapter}{16.}{111}
-\contentsline {chapter}{17.}{113}
-\contentsline {chapter}{18.}{119}
-\contentsline {chapter}{19.}{123}
-\contentsline {chapter}{20.}{127}
-\contentsline {chapter}{21.}{137}
-\contentsline {chapter}{22.}{139}
-\contentsline {chapter}{23.}{141}
-\contentsline {part}{II. \par \vspace \medskipamount \par La Double Méprise\FN@sf@gobble@opt {Provável referência indireta ao romance \emph {O duplo engano} de Prosper Mérimée. Sutilmente, Hubert Fichte oferece uma chave interpretativa para o seu comportamento, já que o romance do autor francês trata da traição conjugal de uma mulher inatacável, que mais tarde fundamentaria a história das aindas mais conhecidas \emph {Madame Bovary} de Flaubert, \emph {Anna Kariênina} de Tolstói e \emph {Effi Briest} de Fontane. (N. do T.)}}{143}
-\contentsline {chapter}{1.}{145}
-\contentsline {chapter}{2.}{149}
-\contentsline {chapter}{3.}{161}
-\contentsline {chapter}{4.}{169}
-\contentsline {chapter}{5.}{179}
-\contentsline {chapter}{6.}{191}
-\contentsline {chapter}{7.}{197}
-\contentsline {chapter}{8.}{205}
-\contentsline {chapter}{9.}{215}
-\contentsline {chapter}{10.}{227}
+\contentsline {part}{I. As bonecas e os enxutos}{7}
+\contentsline {chapter}{1.}{8}
+\contentsline {chapter}{2.}{9}
+\contentsline {chapter}{3.}{18}
+\contentsline {chapter}{4.}{21}
+\contentsline {chapter}{5.}{24}
+\contentsline {chapter}{6.}{28}
+\contentsline {chapter}{7.}{31}
+\contentsline {chapter}{8.}{36}
+\contentsline {chapter}{9.}{46}
+\contentsline {chapter}{10.}{50}
+\contentsline {chapter}{11.}{57}
+\contentsline {chapter}{12.}{60}
+\contentsline {chapter}{13.}{68}
+\contentsline {chapter}{14.}{70}
+\contentsline {chapter}{15.}{80}
+\contentsline {chapter}{16.}{98}
+\contentsline {chapter}{17.}{100}
+\contentsline {chapter}{18.}{106}
+\contentsline {chapter}{19.}{109}
+\contentsline {chapter}{20.}{112}
+\contentsline {chapter}{21.}{121}
+\contentsline {chapter}{22.}{122}
+\contentsline {chapter}{23.}{123}
+\contentsline {part}{II. La Double Méprise\footnote {Provável referência indireta ao romance \emph {O duplo engano} de Prosper Mérimée. Sutilmente, Hubert Fichte oferece uma chave interpretativa para o seu comportamento, já que o romance do autor francês trata da traição conjugal de uma mulher inatacável, que mais tarde fundamentaria a história das aindas mais conhecidas \emph {Madame Bovary} de Flaubert, \emph {Anna Kariênina} de Tolstói e \emph {Effi Briest} de Fontane. (N. do T.)}}{124}
+\contentsline {chapter}{1.}{125}
+\contentsline {chapter}{2.}{129}
+\contentsline {chapter}{3.}{140}
+\contentsline {chapter}{4.}{146}
+\contentsline {chapter}{5.}{155}
+\contentsline {chapter}{6.}{167}
+\contentsline {chapter}{7.}{171}
+\contentsline {chapter}{8.}{178}
+\contentsline {chapter}{9.}{186}
 \contentsfinish 
