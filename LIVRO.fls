@@ -1,4 +1,4 @@
-PWD /home/editorial/fichte_explosao
+PWD /run/media/editorial/01C8B75E35F33800/Dropbox/Dropbox/LATEX/git/fichte_explosao
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT LIVRO.tex

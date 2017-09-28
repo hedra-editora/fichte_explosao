@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.8.25)  28 SEP 2017 21:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.8.25)  28 SEP 2017 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1547,6 +1547,8 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1559,8 +1561,6 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 (/home/editorial/texmf/tex/frontconselho.tex)
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
  [2
@@ -2318,14 +2318,9 @@ AED: lastpage setting LastPage
 (/home/editorial/texmf/tex/PUBLICIDADE.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
-
- []
-
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[836
+ [836
 
 
 
@@ -2346,14 +2341,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
+
+(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26187 strings out of 492998
- 480186 string characters out of 6139961
- 704064 words of memory out of 5000000
- 29680 multiletter control sequences out of 15000+600000
+ 26188 strings out of 492998
+ 480198 string characters out of 6139961
+ 704495 words of memory out of 5000000
+ 29681 multiletter control sequences out of 15000+600000
  543842 words of font info for 103 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 54i,12n,88p,10373b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,88p,10373b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (840 pages, 12834764 bytes).
+Output written on LIVRO.xdv (840 pages, 12841432 bytes).
