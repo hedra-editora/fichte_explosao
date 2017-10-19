@@ -1,9 +1,0 @@
-\select@language {brazilian}
-\hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{\chapternumberline {1}Nota de Apresentação, \emph { por{} Diedrich Diederichsen e Anselm Franke}}{7}
-\contentsline {part}{\partnumberline {{\fontencoding {TU}\selectfont I}}\textsc {\MakeTextLowercase {I. As bonecas e os enxutos}}}{9}
-\contentsline {part}{\partnumberline {{\fontencoding {TU}\selectfont II}}\textsc {\MakeTextLowercase {II. La Double Méprise}}\FN@sf@gobble@opt {Provável referência indireta ao romance \emph {O duplo engano} de Prosper Mérimée. Sutilmente, Hubert Fichte oferece uma chave interpretativa para o seu comportamento, já que o romance do autor francês trata da traição conjugal de uma mulher inatacável, que mais tarde fundamentaria a história das aindas mais conhecidas \emph {Madame Bovary} de Flaubert, \emph {Anna Kariênina} de Tolstói e \emph {Effi Briest} de Fontane. (N. do T.)}}{120}
-\contentsline {part}{\partnumberline {{\fontencoding {TU}\selectfont III}}\textsc {\MakeTextLowercase {III. O rio e a costa}}}{404}
-\contentsline {chapter}{\chapternumberline {1}Nota Editorial }{822}
-\contentsline {chapter}{\chapternumberline {2}Glossário de Peculiaridades\emph {, por{} Marcelo Backes e Diedrich Diederichsen}}{826}
-\contentsfinish 
