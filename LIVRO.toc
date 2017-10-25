@@ -7,7 +7,3 @@
 \contentsline {chapter}{Nota Editorial }{826}
 \contentsline {chapter}{Glossário de Peculiaridades\emph {, por{} M.\,Backes e D.\,Diederichsen}}{830}
 \contentsfinish 
-\contentsline {section}{coleção hedra}{840}
-\contentsline {section}{<<série largepost>>}{842}
-\contentsline {section}{<<série sexo>>}{843}
-\contentsline {section}{coleção <<que horas são?>>}{843}

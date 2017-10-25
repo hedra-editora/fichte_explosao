@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.9)  24 OCT 2017 19:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.29)  25 OCT 2017 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **LIVRO.tex
 (./LIVRO.tex
-LaTeX2e <2017-04-15>
-Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
 ment class
@@ -499,29 +499,20 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \epigraphminimallength=\skip190
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/06/29 3.12 The Babel package
+Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/06/29 3.12 Babel switching mechanism
-)
 (/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2017/06/29 3.12 Babel common definitions
-
-(/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/06/29 3.12 Babel switching mechanism
-)
+File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count148
 \U@D=\dimen171
 
-(/usr/share/texmf-dist/tex/generic/babel/xebabel.def)
-\bbl@dirlevel=\count149
-)
-\bbl@monogreek=\count150
-\bbl@polygreek=\count151
-\bbl@ancientgreek=\count152
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def))
+\bbl@monogreek=\count149
+\bbl@polygreek=\count150
+\bbl@ancientgreek=\count151
 
 (/usr/share/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
 File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
@@ -529,21 +520,18 @@ File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
 (/usr/share/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
 
-))
-LaTeX Info: Composite with undeclared \< in encoding LGR on input line 418.
-LaTeX Info: Composite with undeclared \> in encoding LGR on input line 418.
-)
+)))
 (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
+Language: english 2017/01/24 v3.3q English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
 (/usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf
 Language: italian 2015/03/26 v1.3n Italian support from the babel system
-\it@lettering=\count153
-\it@doublequoteactive=\count154
-\it@ISOcompliance=\count155
+\it@lettering=\count152
+\it@doublequoteactive=\count153
+\it@ISOcompliance=\count154
 )
 (/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
 Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
@@ -553,39 +541,38 @@ Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 Package babel Info: Making " an active character on input line 125.
 ))
 (/usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
-Language: frenchb 2017/07/08 v3.3b French support from the babel system
-
-(/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2017/07/08 v3.3b French support from the babel system
-\FB@nonchar=\count156
-\FBcolonsp=\toks25
-\FBthinsp=\toks26
-Package french.ldf Info: No need for active punctuation characters
-(french.ldf)             with this version of XeTeX!
-(french.ldf)             reported on input line 233.
+Language: frenchb 2017/01/30 v3.2g French support from the babel system
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FB@nonchar=\count155
+\FBcolonskip=\skip191
+\FBthinskip=\skip192
+Package frenchb.ldf Info: No need for active punctuation characters
+(frenchb.ldf)             with this version of XeTeX!
+(frenchb.ldf)             reported on input line 277.
 \FB@punctthick=\XeTeXcharclass1
 \FB@punctthin=\XeTeXcharclass2
 \FB@punctnul=\XeTeXcharclass3
 \FB@guilo=\XeTeXcharclass4
 \FB@guilf=\XeTeXcharclass5
 \FB@guilnul=\XeTeXcharclass6
-\FBguillsp=\toks27
-\FBguill@level=\count157
-\FB@everypar=\toks28
+\FBguillskip=\skip193
+\FBguill@level=\count156
+\FB@everypar=\toks25
 \FB@Mht=\dimen172
-LaTeX Info: Redefining \degres on input line 680.
-\mc@charclass=\count158
-\mc@charfam=\count159
-\mc@charslot=\count160
-\std@mcc=\count161
-\dec@mcc=\count162
-\listindentFB=\skip191
-\descindentFB=\skip192
-\labelwidthFB=\skip193
-\leftmarginFB=\skip194
+LaTeX Info: Redefining \degres on input line 725.
+\mc@charclass=\count157
+\mc@charfam=\count158
+\mc@charslot=\count159
+\std@mcc=\count160
+\dec@mcc=\count161
+\listindentFB=\skip194
+\descindentFB=\skip256
+\labelwidthFB=\skip257
+\leftmarginFB=\skip258
 \parindentFFN=\dimen173
-\FBfnindent=\skip256
-))
+\FBfnindent=\skip259
+)
 (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
 Language: russianb 2017/01/12 1.3i Russian support for the Babel system
 
@@ -604,158 +591,112 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 ))
 (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
-\MT@toks=\toks29
-\MT@count=\count163
-LaTeX Info: Redefining \textls on input line 789.
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@count=\count162
+LaTeX Info: Redefining \textls on input line 774.
 \MT@outer@kern=\dimen174
-LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
-\MT@listname@count=\count164
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count163
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2017/07/07 v2.7 Definitions specific to xetex (RS)
+File: microtype-xetex.def 2016/05/14 v2.6a Definitions specific to xetex (RS)
 LaTeX Info: Redefining \lsstyle on input line 255.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/07/19 L3 programming layer (loader) 
+Package: expl3 2017/04/01 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/07/19 L3 programming layer (code)
-\c_max_int=\count165
-\l_tmpa_int=\count166
-\l_tmpb_int=\count167
-\g_tmpa_int=\count168
-\g_tmpb_int=\count169
-\g__intarray_font_int=\count170
-\g__prg_map_int=\count171
-\c_log_iow=\count172
-\l_iow_line_count_int=\count173
-\l__iow_line_target_int=\count174
-\l__iow_one_indent_int=\count175
-\l__iow_indent_int=\count176
+Package: expl3 2017/04/01 L3 programming layer (code)
+\c_max_int=\count164
+\l_tmpa_int=\count165
+\l_tmpb_int=\count166
+\g_tmpa_int=\count167
+\g_tmpb_int=\count168
+\g__prg_map_int=\count169
+\c_log_iow=\count170
+\l_iow_line_count_int=\count171
+\l__iow_line_target_int=\count172
+\l__iow_one_indent_int=\count173
+\l__iow_indent_int=\count174
 \c_zero_dim=\dimen175
 \c_max_dim=\dimen176
 \l_tmpa_dim=\dimen177
 \l_tmpb_dim=\dimen178
 \g_tmpa_dim=\dimen179
 \g_tmpb_dim=\dimen180
-\c_zero_skip=\skip257
-\c_max_skip=\skip258
-\l_tmpa_skip=\skip259
-\l_tmpb_skip=\skip260
-\g_tmpa_skip=\skip261
-\g_tmpb_skip=\skip262
+\c_zero_skip=\skip260
+\c_max_skip=\skip261
+\l_tmpa_skip=\skip262
+\l_tmpb_skip=\skip263
+\g_tmpa_skip=\skip264
+\g_tmpb_skip=\skip265
 \c_zero_muskip=\muskip10
 \c_max_muskip=\muskip11
 \l_tmpa_muskip=\muskip12
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count177
-\c__fp_leading_shift_int=\count178
-\c__fp_middle_shift_int=\count179
-\c__fp_trailing_shift_int=\count180
-\c__fp_big_leading_shift_int=\count181
-\c__fp_big_middle_shift_int=\count182
-\c__fp_big_trailing_shift_int=\count183
-\c__fp_Bigg_leading_shift_int=\count184
-\c__fp_Bigg_middle_shift_int=\count185
-\c__fp_Bigg_trailing_shift_int=\count186
-\l__sort_length_int=\count187
-\l__sort_min_int=\count188
-\l__sort_top_int=\count189
-\l__sort_max_int=\count190
-\l__sort_true_max_int=\count191
-\l__sort_block_int=\count192
-\l__sort_begin_int=\count193
-\l__sort_end_int=\count194
-\l__sort_A_int=\count266
-\l__sort_B_int=\count267
-\l__sort_C_int=\count268
-\l__tl_build_start_index_int=\count269
-\l__tl_build_index_int=\count270
-\l__tl_analysis_normal_int=\count271
-\l__tl_analysis_index_int=\count272
-\l__tl_analysis_nesting_int=\count273
-\l__tl_analysis_type_int=\count274
-\l__regex_internal_a_int=\count275
-\l__regex_internal_b_int=\count276
-\l__regex_internal_c_int=\count277
-\l__regex_balance_int=\count278
-\l__regex_group_level_int=\count279
-\l__regex_mode_int=\count280
-\c__regex_cs_in_class_mode_int=\count281
-\c__regex_cs_mode_int=\count282
-\l__regex_catcodes_int=\count283
-\l__regex_default_catcodes_int=\count284
-\c__regex_catcode_L_int=\count285
-\c__regex_catcode_O_int=\count286
-\c__regex_catcode_A_int=\count287
-\c__regex_all_catcodes_int=\count288
-\l__regex_show_lines_int=\count289
-\l__regex_min_state_int=\count290
-\l__regex_max_state_int=\count291
-\l__regex_left_state_int=\count292
-\l__regex_right_state_int=\count293
-\l__regex_capturing_group_int=\count294
-\l__regex_min_pos_int=\count295
-\l__regex_max_pos_int=\count296
-\l__regex_curr_pos_int=\count297
-\l__regex_start_pos_int=\count298
-\l__regex_success_pos_int=\count299
-\l__regex_curr_char_int=\count300
-\l__regex_curr_catcode_int=\count301
-\l__regex_last_char_int=\count302
-\l__regex_case_changed_char_int=\count303
-\l__regex_curr_state_int=\count304
-\l__regex_step_int=\count305
-\l__regex_min_active_int=\count306
-\l__regex_max_active_int=\count307
-\l__regex_replacement_csnames_int=\count308
-\l__regex_match_count_int=\count309
-\l__regex_min_submatch_int=\count310
-\l__regex_submatch_int=\count311
-\l__regex_zeroth_submatch_int=\count312
-\g__debug_trace_regex_int=\count313
+\l_keys_choice_int=\count175
+\c__fp_leading_shift_int=\count176
+\c__fp_middle_shift_int=\count177
+\c__fp_trailing_shift_int=\count178
+\c__fp_big_leading_shift_int=\count179
+\c__fp_big_middle_shift_int=\count180
+\c__fp_big_trailing_shift_int=\count181
+\c__fp_Bigg_leading_shift_int=\count182
+\c__fp_Bigg_middle_shift_int=\count183
+\c__fp_Bigg_trailing_shift_int=\count184
+\l__sort_length_int=\count185
+\l__sort_min_int=\count186
+\l__sort_top_int=\count187
+\l__sort_max_int=\count188
+\l__sort_true_max_int=\count189
+\l__sort_block_int=\count190
+\l__sort_begin_int=\count191
+\l__sort_end_int=\count192
+\l__sort_A_int=\count193
+\l__sort_B_int=\count194
+\l__sort_C_int=\count266
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
 \g_tmpa_box=\box38
 \g_tmpb_box=\box39
-\l__box_top_dim=\dimen181
-\l__box_bottom_dim=\dimen182
-\l__box_left_dim=\dimen183
-\l__box_right_dim=\dimen184
-\l__box_top_new_dim=\dimen185
-\l__box_bottom_new_dim=\dimen186
-\l__box_left_new_dim=\dimen187
-\l__box_right_new_dim=\dimen188
-\l__box_internal_box=\box40
-\l__coffin_internal_box=\box41
-\l__coffin_internal_dim=\dimen189
-\l__coffin_offset_x_dim=\dimen190
-\l__coffin_offset_y_dim=\dimen191
-\l__coffin_x_dim=\dimen192
-\l__coffin_y_dim=\dimen193
-\l__coffin_x_prime_dim=\dimen194
-\l__coffin_y_prime_dim=\dimen256
-\c_empty_coffin=\box42
-\l__coffin_aligned_coffin=\box43
-\l__coffin_aligned_internal_coffin=\box44
-\l_tmpa_coffin=\box45
-\l_tmpb_coffin=\box46
-\l__coffin_display_coffin=\box47
-\l__coffin_display_coord_coffin=\box48
-\l__coffin_display_pole_coffin=\box49
-\l__coffin_display_offset_dim=\dimen257
-\l__coffin_display_x_dim=\dimen258
-\l__coffin_display_y_dim=\dimen259
+\l__coffin_internal_box=\box40
+\l__coffin_internal_dim=\dimen181
+\l__coffin_offset_x_dim=\dimen182
+\l__coffin_offset_y_dim=\dimen183
+\l__coffin_x_dim=\dimen184
+\l__coffin_y_dim=\dimen185
+\l__coffin_x_prime_dim=\dimen186
+\l__coffin_y_prime_dim=\dimen187
+\c_empty_coffin=\box41
+\l__coffin_aligned_coffin=\box42
+\l__coffin_aligned_internal_coffin=\box43
+\l_tmpa_coffin=\box44
+\l_tmpb_coffin=\box45
+\l__coffin_display_coffin=\box46
+\l__coffin_display_coord_coffin=\box47
+\l__coffin_display_pole_coffin=\box48
+\l__coffin_display_offset_dim=\dimen188
+\l__coffin_display_x_dim=\dimen189
+\l__coffin_display_y_dim=\dimen190
+\l__box_top_dim=\dimen191
+\l__box_bottom_dim=\dimen192
+\l__box_left_dim=\dimen193
+\l__box_right_dim=\dimen194
+\l__box_top_new_dim=\dimen256
+\l__box_bottom_new_dim=\dimen257
+\l__box_left_new_dim=\dimen258
+\l__box_right_new_dim=\dimen259
+\l__box_internal_box=\box49
 \l__coffin_bounding_shift_dim=\dimen260
 \l__coffin_left_corner_dim=\dimen261
 \l__coffin_right_corner_dim=\dimen262
@@ -766,215 +707,214 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 )
 (/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count314
 \l__driver_tmp_box=\box50
 ))
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2017/07/19 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count315
-\g__xparse_grabber_int=\count316
-\l__xparse_m_args_int=\count317
-\l__xparse_mandatory_args_int=\count318
-\l__xparse_v_nesting_int=\count319
+Package: xparse 2017/04/01 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count267
+\g__xparse_grabber_int=\count268
+\l__xparse_m_args_int=\count269
+\l__xparse_mandatory_args_int=\count270
+\l__xparse_v_nesting_int=\count271
 )
-Package: fontspec 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count320
-\l__fontspec_language_int=\count321
-\l__fontspec_strnum_int=\count322
-\l__fontspec_tmp_int=\count323
-\l__fontspec_em_int=\count324
-\l__fontspec_emdef_int=\count325
-\l__fontspec_strong_int=\count326
-\l__fontspec_strongdef_int=\count327
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_em_int=\count276
+\l__fontspec_emdef_int=\count277
+\l__fontspec_strong_int=\count278
+\l__fontspec_strongdef_int=\count279
 \l__fontspec_tmpa_dim=\dimen267
 \l__fontspec_tmpb_dim=\dimen268
 \l__fontspec_tmpc_dim=\dimen269
 \g__file_internal_ior=\read2
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
 
 (/usr/share/texmf-dist/tex/latex/base/tuenc.def
-File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+File: tuenc.def 2017/02/22 v2.0g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 474.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 472.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 485.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 483.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 505.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 503.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 525.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 523.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 545.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 543.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 549.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 547.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 557.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 555.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 565.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 563.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 571.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 588.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 586.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 605.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 603.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 616.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 614.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 647.
+. Defining command \addfontfeatures with sig. 'm' on line 645.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 674.
+. Defining command \newfontfeature with sig. 'mm' on line 672.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 688.
+. Defining command \newAATfeature with sig. 'mmmm' on line 686.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 702.
+. Defining command \newopentypefeature with sig. 'mmm' on line 700.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 722.
+. Defining command \newICUfeature with sig. 'mmm' on line 720.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 726.
+. Defining command \aliasfontfeature with sig. 'mm' on line 724.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 747.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 745.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 780.
+. Defining command \newfontscript with sig. 'mm' on line 778.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 784.
+. Defining command \newfontlanguage with sig. 'mm' on line 782.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 788.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 786.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 799.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 797.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3462.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3438.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3468.
+. Defining command \EncodingAccent with sig. 'mm' on line 3444.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3474.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3450.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3480.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3456.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3486.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3462.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3511.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3487.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3517.
+. Defining command \UndeclareSymbol with sig. 'm' on line 3493.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3525.
+. Defining command \UndeclareComposite with sig. 'mm' on line 3501.
 .................................................
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3710.
-LaTeX Info: Redefining \slshape on input line 3715.
-LaTeX Info: Redefining \scshape on input line 3720.
-LaTeX Info: Redefining \upshape on input line 3725.
-LaTeX Info: Redefining \em on input line 3755.
-LaTeX Info: Redefining \emph on input line 3780.
-LaTeX Info: Redefining \- on input line 3831.
+LaTeX Info: Redefining \itshape on input line 3686.
+LaTeX Info: Redefining \slshape on input line 3691.
+LaTeX Info: Redefining \scshape on input line 3696.
+LaTeX Info: Redefining \upshape on input line 3701.
+LaTeX Info: Redefining \em on input line 3731.
+LaTeX Info: Redefining \emph on input line 3756.
+LaTeX Info: Redefining \- on input line 3807.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3926.
+. Redefining command \oldstylenums with sig. 'm' on line 3902.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3930.
+. Defining command \liningnums with sig. 'm' on line 3906.
 .................................................
 ))
 (/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty
@@ -984,15 +924,15 @@ other characters in Unicode lower plane
 (/usr/share/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 )
-\tipaTiiicode=\count328
-\tipasavetokens=\toks30
-\tipachecktokens=\toks31
+\tipaTiiicode=\count280
+\tipasavetokens=\toks27
+\tipachecktokens=\toks28
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -1003,12 +943,13 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: xetex.def on input line 99.
 
 (/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
 ))
 \Gin@req@height=\dimen270
 \Gin@req@width=\dimen271
 ))
-\g__fontspec_family_LinuxLibertineO_int=\count329
+\g__fontspec_family_LinuxLibertineO_int=\count281
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1045,7 +986,7 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 LaTeX Info: Redefining \rmfamily on input line 5.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-\g__fontspec_family_WenQuanYiMicroHei_int=\count330
+\g__fontspec_family_WenQuanYiMicroHei_int=\count282
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1084,7 +1025,7 @@ Package: relsize 2013/03/29 ver 4.1
 ))
 (/home/editorial/texmf/tex/hedraextra.sty
 (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package: textcomp 2017/02/22 v2.0g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -1196,16 +1137,16 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 (/usr/share/texmf-dist/tex/latex/shorttoc/shorttoc.sty
 Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
-\c@@sectionNumCenter=\count331
+\c@@sectionNumCenter=\count283
 )
 (/home/editorial/texmf/tex/penalidades.sty)
 (/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
-\c@WF@wrappedlines=\count332
+\c@WF@wrappedlines=\count284
 \WF@box=\box51
-\WF@everypar=\toks32
+\WF@everypar=\toks29
 Package: wrapfig 2003/01/31  v 3.6
 )
 
@@ -1229,7 +1170,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen280
 \caption@hangindent=\dimen281
 )
-\c@ContinuedFloat=\count333
+\c@ContinuedFloat=\count285
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texmf-dist/tex/latex/textpos/textpos.sty
@@ -1243,7 +1184,7 @@ Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
 \TP@absmargin=\dimen285
 Grid set 16 x 16 = 23.65135pt x 37.34424pt
 \TPboxrulesize=\dimen286
-\TP@tbargs=\toks33
+\TP@tbargs=\toks30
 \TP@prevdepth=\dimen287
 ) (/usr/share/texmf-dist/tex/latex/sttools/floatpag.sty
 Package: floatpag 2012/05/29 v1.1 Different pagestyles on float pages
@@ -1276,8 +1217,8 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 (morefloats)             LaTeX might run out of memory before this
 (morefloats)             (in which case it will notify you).
 ))
-\imageheight=\skip263
-\imagewidth=\skip264
+\imageheight=\skip266
+\imagewidth=\skip267
 
 (/home/editorial/texmf/tex/hedralogo.sty
 Package: hedralogo 27/12/08 v2.0 Editora Hedra (Mantenedor: JS)
@@ -1295,18 +1236,18 @@ Package color Info: Driver file: xetex.def on input line 147.
 (/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
-\c@tracingst=\count334
+\c@tracingst=\count286
 \PWSTcapht=\dimen288
 \ST@wd=\dimen289
-\ST@rightskip=\skip265
-\ST@leftskip=\skip266
-\ST@parfillskip=\skip267
-\c@PWSTtable=\count335
-\PWSTlastpage=\count336
-\PWSTpenultimate=\count337
-\PWSTcurpage=\count338
-\PWSTtempc=\count339
-\PWSTlines=\count340
+\ST@rightskip=\skip268
+\ST@leftskip=\skip269
+\ST@parfillskip=\skip270
+\c@PWSTtable=\count287
+\PWSTlastpage=\count288
+\PWSTpenultimate=\count289
+\PWSTcurpage=\count290
+\PWSTtempc=\count291
+\PWSTlines=\count292
 \PWST@lastht=\dimen290
 \PWST@generalht=\dimen291
 \PWST@ht=\dimen292
@@ -1324,11 +1265,11 @@ Package: xtab 2011/07/31 v2.3f Extended supertabular package
 )
 (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip268
+\labelindent=\skip271
 \enit@outerparindent=\dimen303
-\enit@toks=\toks34
+\enit@toks=\toks31
 \enit@inbox=\box54
-\enitdp@description=\count341
+\enitdp@description=\count293
 )
 (/usr/share/texmf-dist/tex/latex/ctable/ctable.sty
 Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
@@ -1356,19 +1297,19 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks35
-\XKV@tempa@toks=\toks36
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
 )
-\XKV@depth=\count342
+\XKV@depth=\count294
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count343
-\rotFPtop=\skip269
-\rotFPbot=\skip270
+\c@r@tfl@t=\count295
+\rotFPtop=\skip272
+\rotFPbot=\skip273
 \rot@float@box=\box55
-\rot@mess@toks=\toks37
+\rot@mess@toks=\toks34
 )
 
 Package ctable Warning: 
@@ -1395,8 +1336,12 @@ e .
 \@CToldrule=\dimen321
 \CT@t=\box56
 \@CTcurftwidth=\dimen322
-)) (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty) (./LIVRO.aux
-(./INPUTS.aux) (./PUBLICIDADE.aux))
+)) (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
+
+LaTeX Warning: Unused global option(s):
+    [compontinhos].
+
+(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -1417,7 +1362,7 @@ LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 13.
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 13.
 
 (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
-File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 13.
@@ -1451,7 +1396,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
-Package microtype Info: Loading generic protrusion settings for font family
+Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxLibertineO' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
@@ -1527,9 +1472,9 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-File: front.png Graphic file (type bmp)
-<front.png>
-Package microtype Info: Loading generic protrusion settings for font family
+File: front.png Graphic file (type QTm)
+ <use  "front.png" >
+Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
@@ -1554,8 +1499,8 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 (/home/editorial/texmf/tex/frontconselho.tex)
-File: patrocinio.png Graphic file (type bmp)
-<patrocinio.png>
+File: patrocinio.png Graphic file (type QTm)
+ <use  "patrocinio.png" >
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
  [2
@@ -2108,7 +2053,7 @@ Overfull \vbox (7.28183pt too high) has occurred while \output is active []
 ] [583
 
 ]
-Overfull \vbox (15.35503pt too high) has occurred while \output is active []
+Overfull \vbox (15.45502pt too high) has occurred while \output is active []
 
 
 [584] [585
@@ -2322,9 +2267,14 @@ AED: lastpage setting LastPage
 (/home/editorial/texmf/tex/PUBLICIDADE.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [840
+[840
 
 
 
@@ -2345,16 +2295,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
-
-(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
+ (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26199 strings out of 492998
- 480292 string characters out of 6139961
- 705244 words of memory out of 5000000
- 29690 multiletter control sequences out of 15000+600000
- 543842 words of font info for 103 fonts, out of 8000000 for 9000
- 1372 hyphenation exceptions out of 8191
- 54i,12n,88p,10373b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25406 strings out of 493068
+ 460502 string characters out of 6141028
+ 681889 words of memory out of 5000000
+ 28843 multiletter control sequences out of 15000+600000
+ 17210 words of font info for 95 fonts, out of 8000000 for 9000
+ 1371 hyphenation exceptions out of 8191
+ 54i,12n,88p,10373b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Error 134 (driver return code) generating output;
-file LIVRO.pdf may not be valid.
+Output written on LIVRO.xdv (844 pages, 12839556 bytes).
