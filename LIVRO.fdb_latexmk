@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1508963531 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1508963532
-  "LIVRO.xdv" 1508963531 12839556 559e27313744b99972f907e247d65954 "xelatex"
+["xdvipdfmx"] 1508966772 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1508966773
+  "LIVRO.xdv" 1508966772 12839556 ff94fcbbe5882032840eccebb2af037b "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1508963526 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1508963532
+["xelatex"] 1508966767 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1508966773
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1496083773 10200 4444ae590ca5c1ce811f0639753182ed ""
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1496083773 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -163,22 +163,22 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1492575653 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1492575665 31661 3832dc67fcae1bb0c47594ea86c25797 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1496085162 4105404 709ee5bfdb7fec2aaf27dd8937a28de7 ""
-  "INPUTS.aux" 1508963531 3004 e4941f67026502be06262e809a8e8270 ""
+  "INPUTS.aux" 1508966771 3003 ab238906a65595201596f4cd50e2588e ""
   "INPUTS.tex" 1508362689 17 0b78ac9cdf4b394c9cdadb1cb13f6dfc ""
-  "LIVRO.aux" 1508963531 501 c1cdc204588b44b7c887298827e36d9c ""
+  "LIVRO.aux" 1508966772 501 c1cdc204588b44b7c887298827e36d9c ""
   "LIVRO.tex" 1508963393 291 0d099e335e930fb44bdfb334df31bbe6 ""
-  "LIVRO.toc" 1508963531 1053 ee92b2978f7149596f99d9dbce0cf366 ""
-  "ORIGINAL.tex" 1508529889 1220708 4bb48074b9d6edfde4f8851a97d889a0 ""
-  "PUBLICIDADE.aux" 1508963531 1708 681a3f84815826e7ce1c5d7cd40b1086 ""
+  "LIVRO.toc" 1508966772 1052 784e381fe48ce1fb51213f652ad2a16d ""
+  "ORIGINAL.tex" 1508966722 1220707 df3d2a0ec1d024721d0b04a1f249998f ""
+  "PUBLICIDADE.aux" 1508966772 1708 681a3f84815826e7ce1c5d7cd40b1086 ""
   "fichatecnica.sty" 1508963320 3473 eb938237cb74e8f2e8ff5d9cebc55566 ""
   "front.png" 1508529294 15967 0c200695cffbcb97731ac5252eeb0d24 ""
   "fronthedra.tex" 1508963289 4153 d7982332b1bdf38ae1947e83314d4356 ""
-  "gitrevisioninfo.sty" 1508963525 35 0e3209f971a6edfc789648421d60b33a ""
+  "gitrevisioninfo.sty" 1508966767 35 67bc2067b5b95fb289057d89f7c5e7f8 ""
   "patrocinio.png" 1508961005 33277 1204615b3e7e6c7ce622ba05d3d1b2e7 ""
   (generated)
+  "LIVRO.aux"
   "LIVRO.log"
   "LIVRO.toc"
+  "PUBLICIDADE.aux"
   "INPUTS.aux"
   "LIVRO.xdv"
-  "LIVRO.aux"
-  "PUBLICIDADE.aux"
