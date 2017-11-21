@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  1 NOV 2017 13:52
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  21 NOV 2017 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2358,10 +2358,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  26200 strings out of 492998
  480309 string characters out of 6139960
- 705737 words of memory out of 5000000
+ 706986 words of memory out of 5000000
  29690 multiletter control sequences out of 15000+600000
  543842 words of font info for 103 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  54i,12n,88p,10373b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (844 pages, 12839860 bytes).
+Output written on LIVRO.xdv (844 pages, 12850252 bytes).
